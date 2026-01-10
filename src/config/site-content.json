@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -49,18 +49,11 @@
 			"order": 1
 		},
 		{
-			"id": "button-1768071741940",
-			"type": "zhihu",
-			"value": "https://www.zhihu.com/people/54058",
-			"label": "知乎",
-			"order": 2
-		},
-		{
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/DyedBamboo/",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
