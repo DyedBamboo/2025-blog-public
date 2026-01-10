@@ -46,14 +46,21 @@
 			"type": "github",
 			"value": "https://github.com/DyedBamboo/",
 			"label": "Github",
-			"order": 3
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "1977808250@qq.com",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "button-1768071741940",
+			"type": "zhihu",
+			"value": "https://www.zhihu.com/people/54058",
+			"label": "知乎",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
